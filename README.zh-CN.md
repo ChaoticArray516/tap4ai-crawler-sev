@@ -1,4 +1,4 @@
-# Tap4 AI Crawler
+# Tap4 AI Crawler-Fork项目
 
 Tap4 AI Crawler 是由 [tap4.ai](https://tap4.ai) 开发的开源爬虫，它将网站 Url 转换为使用 LLM 总结的网站信息。包括强大的抓取、爬取和数据提取功能，以及网页截图功能。使用 Tap4 AI Crawler，您不仅可以轻松更新 AI 工具目录中的 AI 工具详细信息，还可以生成网站摘要。
 
